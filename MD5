@@ -1,4 +1,4 @@
-0b50f4928cd9dc72d0a79ad767619dd6 *DESCRIPTION
+10a124ca2c983cde1d81b06cea1dcaf4 *DESCRIPTION
 405faa42668d9f1af6d6213e319f5906 *NAMESPACE
 0591e33e23ba3d00ff75112e1e3f6939 *R/CalcAuxAtPoint.R
 9a4a99604aa83acba26b11968c131fa0 *R/CalcCoxCalibP.R
@@ -49,7 +49,7 @@ ec10b9af265f9dc8a28b109611087300 *src/CoxLogLikGrad.cpp
 73a6743cf342b8ac1f5e7e17c2c39946 *src/CoxLogLikHess.cpp
 02b64769cc27fa4a7804b260e5cd1b30 *src/CoxLogLikNoBeta.cpp
 3a594b3ea3264e563cb98e0c5aaa8ece *src/CoxLogLikX.cpp
-16a5512f3e3393f1da681ebcb29d4a26 *src/FindIntervalCPP.cpp
+fccbd655c6dcab184b16b43e37c0ff3f *src/FindIntervalCPP.cpp
 0db44a07151afdc25339d3b6ca9118ed *src/FindIntervalCalibCPP.cpp
 d451eb3dcd275b110848b179b565bf04 *src/FindIntervalCalibCPPvec.cpp
 e38c4624620c3141d0ebc91d12a457f5 *src/ICcalib_init.c
