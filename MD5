@@ -1,4 +1,4 @@
-10a124ca2c983cde1d81b06cea1dcaf4 *DESCRIPTION
+0e607ecd1acc0e1a94c1511b2f54c77c *DESCRIPTION
 405faa42668d9f1af6d6213e319f5906 *NAMESPACE
 0591e33e23ba3d00ff75112e1e3f6939 *R/CalcAuxAtPoint.R
 9a4a99604aa83acba26b11968c131fa0 *R/CalcCoxCalibP.R
@@ -7,15 +7,15 @@
 1e4dc98f635bcf89b62dac27253be710 *R/CalcGradEtaPers.R
 63aa52fbe5c0ff93101da137e21785da *R/CalcGradEtaPersRSInts.R
 03a97b17bcddf04bc6cc1e86c1ec08de *R/CalcNpmleCalibP.R
-1d53b0747a51114c62fe816290e1e3f0 *R/CalcNpmleRSP.R
+0bef15aeca70256ab391d0d2cb68882b *R/CalcNpmleRSP.R
 ac61f21e775f0a8cb39bffea915d69a5 *R/CalcSurvFromCox.R
 4b9b6483f3fc6e105c380a28df260f71 *R/CalcVarTheta.R
 abd9ae90ec6d57f964723ad33f42a035 *R/CalcWeibullCalibP.R
 9562550dbd6cfd35ff0211e64782d2e0 *R/CalcWeibullCalibPderiv.R
 675c11ab3799cc877bd7e77fd9bb1283 *R/CalcWeibullRSP.R
-8ee747ceef154c6a2d1217b3360b63e5 *R/FitCalibCoxRS.R
-5870ce647471f2e022e476793e9b7ce4 *R/FitCalibCoxRSInts.R
-ef9fbec11292b68a908ff8a344fa8a04 *R/FitCalibWeibullRS.R
+4be5db8645c85c37215787abdcfd6a95 *R/FitCalibCoxRS.R
+26fae41ab7d745af1870180d0e51b590 *R/FitCalibCoxRSInts.R
+193fabb1df3ef0aa28469d01dbb42620 *R/FitCalibWeibullRS.R
 4f136150a10e37ab5d823fe31d44eca1 *R/LVCFdata.R
 5818bd8efe97c7288a990390fd654b63 *R/MidIdata.R
 58ed674aeb5e4c25636f052c16a3f3a4 *R/NaiveMethods.R
